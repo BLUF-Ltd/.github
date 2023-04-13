@@ -9,6 +9,8 @@ be using GitHub to share the code.
 We also intend to share some code from our apps, as well, and a few other little tools we use at BLUF HQ.
 
 If you'd like to be involved, please drop us a line.
+
+BLUF.com is run by BLUF Ltd, a not-for profit Company Limited by Guarantee, registered in England and Wales.
 <!--
 
 **Here are some ideas to get you started:**
